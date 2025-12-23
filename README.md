@@ -12,13 +12,19 @@ In this task, the objective was to create a Power BI dashboard that visualizes k
 
 ![Call Centre Trends](https://github.com/user-attachments/assets/f4a19a85-266a-4182-9ab6-23b2db5693c4)
 
+---
+
 ### 2. Customer Retention Analysis
 
 This task involved analyzing customer retention trends using Power BI. The focus was on visualizing customer demographics, churn rates, and factors influencing retention. The objective was to identify key opportunities for improving customer engagement and retention strategies.
 
 ![Churn Dashboard](https://github.com/user-attachments/assets/c4477cc7-0ee4-44b1-bca4-d7b8008e4055)
 
+---
+
 ![Customer Risk Analysis](https://github.com/user-attachments/assets/a5f72c84-8152-4cfb-8117-7206ee2b3961)
+
+---
 
 ### 3. Diversity & Inclusion 
 
@@ -26,6 +32,8 @@ The final task centered around HR data, with a focus on gender-related KPIs. The
 
 ![Diversity   Inclusion - A](https://github.com/user-attachments/assets/c862d2f4-9d91-4c26-97e8-c42339d1faa0)
 
+---
+
 ![Diversity   Inclusion - B](https://github.com/user-attachments/assets/e9b030d9-9a3c-4a1e-a60c-f9156bc350fd)
 
-
+---
